@@ -18,3 +18,5 @@ function YourBotArmy({botArmy, removeBot, deleteBot}) {
     </div>
   );
 }
+
+export default YourBotArmy;
