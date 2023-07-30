@@ -52,3 +52,5 @@ function BotCard({ bot, handleBot, handleDeleteBot }) {
         </div>
       );
     }
+
+    export default BotCard;
