@@ -16,3 +16,5 @@ function BotCollection({bots, addBot, deleteBot}) {
   );
 }
 
+export default BotCollection;
+
