@@ -14,8 +14,11 @@ body {
 
 .bot-army {
   overflow-x: scroll;
-  min-height: 300px;
-  max-width: 100%;
+  min-height: 150px;
+  max-width: 90%;
+  background-color:#ff4500;
+  border-radius: 40px;
+  margin-left: 50px;
   
   
 }
