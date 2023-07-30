@@ -79,3 +79,4 @@ function BotSpecs({ bot }) {
   );
 }
 
+export default BotSpecs;
