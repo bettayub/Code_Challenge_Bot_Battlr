@@ -47,3 +47,5 @@ function BotsPage() {
     </div>
   )
 }
+
+export default BotsPage;
