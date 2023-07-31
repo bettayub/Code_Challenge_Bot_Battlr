@@ -21,7 +21,7 @@ function BotCard({ bot, handleBot, handleDeleteBot }) {
           </p>
           <span>
             <i className="amor" />
-            Amor: {bot.armor}
+            Armor: {bot.armor}
           </span>
           <span>
             <div className="ui center aligned segment basic">
