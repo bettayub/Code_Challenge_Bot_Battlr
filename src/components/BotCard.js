@@ -28,7 +28,7 @@ function BotCard({ bot, handleBot, handleDeleteBot }) {
               <button
                 className="ui mini red button"
                 onClick={() => handleDeleteBot(bot)}
-              >Delete</button>
+              >X</button>
             </div>
           </span>
         </div>
