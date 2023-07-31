@@ -54,7 +54,8 @@ To Discharge a bot from their service forever, by clicking the red button marked
 
 ```
 # Design
-![Screenshot from 2023-07-31 06-25-04](https://github.com/bettayub/Code_Challenge_Bot_Battlr/assets/132656282/0f603aab-80c8-4ba7-a061-36b20a171011)
+![Screenshot from 2023-07-31 06-38-45](https://github.com/bettayub/Code_Challenge_Bot_Battlr/assets/132656282/93d3c267-b5de-49c3-bdfe-064595c7527e)
+
 
 # Support and Contacts
 ## You can reach me on bettayub19@gmail.com
